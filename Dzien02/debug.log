@@ -1,0 +1,3 @@
+XYZ:2023/04/28 10:20:27.347248 /Users/marian/golang20230414/Dzien02/05-log.go:17: log started....
+XYZ:2023/04/28 10:20:27.347476 /Users/marian/golang20230414/Dzien02/05-log.go:21: komunikat logujący
+XYZ:2023/04/28 10:20:27.347491 /Users/marian/golang20230414/Dzien02/05-log.go:23: fatal message
